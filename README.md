@@ -10,6 +10,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-cc2336?style=flat-square&logo=apache&logoColor=white&link=https%3A%2F%2Fwww.javascript.com%2F)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
 
 <!--
 **tarikulwebx/tarikulwebx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
