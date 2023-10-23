@@ -37,6 +37,10 @@
 )](https://react.dev/)
 [![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white
 )](https://react.dev/)
+[![Figma](https://img.shields.io/badge/Figma-EA4C1D?style=flat-square&logo=figma&logoColor=white
+)](https://react.dev/)
+[![Postman](https://img.shields.io/badge/Postman-ef5b25?style=flat-square&logo=postman&logoColor=white
+)](https://react.dev/)
 
 
 
