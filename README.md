@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black
 )](https://www.javascript.com/)
-[![React JS](https://img.shields.io/badge/React_JS-00adcc?style=flat-square&logo=react&logoColor=black
+[![React JS](https://img.shields.io/badge/React_JS-00adcc?style=flat-square&logo=react&logoColor=white
 )](https://react.dev/)
 
 
