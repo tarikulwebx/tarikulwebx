@@ -3,6 +3,8 @@
 )](https://www.javascript.com/)
 [![React JS](https://img.shields.io/badge/React_JS-00adcc?style=flat-square&logo=react&logoColor=white
 )](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-737373?style=flat-square&logo=tailwindcss&logoColor=white
+)](https://react.dev/)
 
 
 
