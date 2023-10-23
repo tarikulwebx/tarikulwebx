@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black
-)](https://www.javascript.com/){:target="_blank"}
-[link](url){:target="_blank"}
+)](https://www.javascript.com/)
 
 
 
