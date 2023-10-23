@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=%23000000&link=https%3A%2F%2Fwww.javascript.com%2F)
+![ReactJS](https://img.shields.io/badge/React_JS-0081CB?style=flat-square&logo=react&logoColor=61DAFB&link=https%3A%2F%2Fwww.javascript.com%2F)
 
 <!--
 **tarikulwebx/tarikulwebx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
