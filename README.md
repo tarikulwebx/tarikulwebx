@@ -27,6 +27,16 @@
 )](https://react.dev/)
 [![JQuery](https://img.shields.io/badge/JQuery-0769ad?style=flat-square&logo=jquery&logoColor=white
 )](https://react.dev/)
+[![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white
+)](https://react.dev/)
+[![Github](https://img.shields.io/badge/Github-6e5494?style=flat-square&logo=github&logoColor=white
+)](https://react.dev/)
+[![Gitlab](https://img.shields.io/badge/Gitlab-e24329?style=flat-square&logo=gitlab&logoColor=white
+)](https://react.dev/)
+[![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white
+)](https://react.dev/)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white
+)](https://react.dev/)
 
 
 
