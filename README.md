@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=%23000000&link=https%3A%2F%2Fwww.javascript.com%2F)
+[Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=JavaScript&logoColor=%23000000&link=https%3A%2F%2Fwww.javascript.com%2F)
 ![ReactJS](https://img.shields.io/badge/React_JS-0081CB?style=flat-square&logo=react&logoColor=61DAFB&link=https%3A%2F%2Fwww.javascript.com%2F)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
