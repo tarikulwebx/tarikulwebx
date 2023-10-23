@@ -1,9 +1,9 @@
 ### Hi there 👋
 [![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black
 )](https://www.javascript.com/)
-[![React JS](https://img.shields.io/badge/React_JS-00adcc?style=flat-square&logo=react&logoColor=white
+[![React JS](https://img.shields.io/badge/ReactJS-00adcc?style=flat-square&logo=react&logoColor=white
 )](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-737373?style=flat-square&logo=tailwindcss&logoColor=white
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3EBFF8?style=flat-square&logo=tailwindcss&logoColor=white
 )](https://react.dev/)
 
 
