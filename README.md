@@ -33,13 +33,29 @@
 )](https://react.dev/)
 [![Gitlab](https://img.shields.io/badge/Gitlab-e24329?style=flat-square&logo=gitlab&logoColor=white
 )](https://react.dev/)
-[![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white
+[![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-ff9900?style=flat-square&logo=amazonaws&logoColor=white
 )](https://react.dev/)
 [![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white
 )](https://react.dev/)
 [![Figma](https://img.shields.io/badge/Figma-EA4C1D?style=flat-square&logo=figma&logoColor=white
 )](https://react.dev/)
 [![Postman](https://img.shields.io/badge/Postman-ef5b25?style=flat-square&logo=postman&logoColor=white
+)](https://react.dev/)
+[![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white
+)](https://react.dev/)
+[![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white
+)](https://react.dev/)
+[![Headless UI](https://img.shields.io/badge/Headless_UI-blue?style=flat-square&logo=headlessui&logoColor=white
+)](https://react.dev/)
+[![Material UI](https://img.shields.io/badge/Material_UI-1565C0?style=flat-square&logo=materialdesign&logoColor=white
+)](https://react.dev/)
+[![JSON](https://img.shields.io/badge/JSON-334155?style=flat-square&logo=json&logoColor=white
+)](https://react.dev/)
+[![Axios](https://img.shields.io/badge/Axios-4c1d95?style=flat-square&logo=axios&logoColor=white
+)](https://react.dev/)
+[![W3C](https://img.shields.io/badge/W3C-ef5b25?style=flat-square&logo=w3c&logoColor=white
+)](https://react.dev/)
+[![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-ef5b25?style=flat-square&logo=apachejmeter&logoColor=white
 )](https://react.dev/)
 
 
