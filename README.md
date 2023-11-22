@@ -62,7 +62,7 @@ I'm Md. Tarikul Islam. A Full-Stack Web Developer with a huge love of Javascript
 
 I have been developing and serving web development experiences since 2018. I currently (since 2022) work for NBSoft (Japan) which produces AI and software services from Bangladesh. Alongside NBSoft, I provide Full-Stack Web Development services for my clients. 
 
-##### R e a c h &nbsp; m e 🚀:
+#### R e a c h &nbsp; m e 🚀:
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white
 )](https://www.facebook.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
