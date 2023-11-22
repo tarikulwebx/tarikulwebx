@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black
 )](https://www.javascript.com/)
 [![React JS](https://img.shields.io/badge/ReactJS-00adcc?style=flat-square&logo=react&logoColor=white
@@ -58,7 +58,8 @@
 [![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-ef5b25?style=flat-square&logo=apachejmeter&logoColor=white
 )](https://react.dev/)
 
-
+### Hi there 👋
+I'm Md. Tarikul Islam. A Full-Stack Web Developer with a huge love of Javascript, React.JS, TailwindCSS, Bootstrap, PHP, Laravel, MySQL, AWS, DevOps and many other technologies related to Web Engineering. 
 
 
 <!--
