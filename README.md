@@ -68,13 +68,13 @@ I have been developing and serving web development experiences since 2018. I cur
 
 #### R e a c h &nbsp; m e 🚀:
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white
-)](https://www.facebook.com/)
+)](https://www.facebook.com/tarikulfb/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/)
+)](https://www.linkedin.com/in/tarikulwebx/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white
-)](https://www.linkedin.com/)
+)](mailto:tarikulwebx@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white
-)](https://www.linkedin.com/)
+)](https://t.me/tarikul_brur)
 
 <!--
 **tarikulwebx/tarikulwebx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
