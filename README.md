@@ -70,6 +70,37 @@ I'm Md. Tarikul Islam. A Full-Stack Web Developer with a huge love of Javascript
 
 I have been developing and serving web development experiences since 2019. I currently (since 2022) work for NBSoft (Japan) which produces AI and software services from Bangladesh. Alongside NBSoft, I provide Full-Stack Web Development services for my clients. 
 
+### Frontend Technologies
+- HTML, CSS, SASS
+- Javascript, React.JS, JQuery
+- TailwindCSS, Bootstrap, HeadlessUI
+- Axios
+- NPM, NVM
+- Vite, Webpack
+
+### Backend Technologies
+- PHP, Laravel
+- MySQL
+- PhpMyAdmin
+- Apache
+- ElasticSearch, OpenSearch
+- Remote storage, Amazon S3 Bucket
+- FTP, SFTP
+- Remote Database
+
+### Amazon Web Services (AWS)
+- Elastic Compute Cloud (EC2)
+- Route 53
+- Lambda
+- Simple Storage Service (S3)
+- EventBridge
+- OpenSearch
+- VPC
+- RDS
+
+### Version Control Technologies
+- Git, Github, Gitlab
+
 #### R e a c h &nbsp; m e 🚀:
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white
 )](https://www.facebook.com/tarikulfb/)
@@ -80,17 +111,3 @@ I have been developing and serving web development experiences since 2019. I cur
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white
 )](https://t.me/tarikul_brur)
 
-<!--
-**tarikulwebx/tarikulwebx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
