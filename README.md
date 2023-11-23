@@ -65,7 +65,7 @@
 [![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white
 )](https://jmeter.apache.org/)
 
-### Hi there 👋
+## Hi there! Nice to see you. 👋
 I'm Md. Tarikul Islam. A Full-Stack Web Developer with a huge love of Javascript, React.JS, TailwindCSS, Bootstrap, PHP, Laravel, MySQL, AWS, DevOps and many other technologies related to Web Engineering. 
 
 I have been developing and serving web development experiences since 2019. I currently (since 2022) work for NBSoft (Japan) which produces AI and software services from Bangladesh. Alongside NBSoft, I provide Full-Stack Web Development services for my clients. 
