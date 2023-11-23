@@ -70,36 +70,15 @@ I'm Md. Tarikul Islam. A Full-Stack Web Developer with a huge love of Javascript
 
 I have been developing and serving web development experiences since 2019. I currently (since 2022) work for NBSoft (Japan) which produces AI and software services from Bangladesh. Alongside NBSoft, I provide Full-Stack Web Development services for my clients. 
 
-### Frontend Technologies
-- HTML, CSS, SASS
-- Javascript, React.JS, JQuery
-- TailwindCSS, Bootstrap, HeadlessUI
-- Axios
-- NPM, NVM
-- Vite, Webpack
+### Loving Technology Stacks 💝
 
-### Backend Technologies
-- PHP, Laravel
-- MySQL
-- PhpMyAdmin
-- Apache
-- ElasticSearch, OpenSearch
-- Remote storage, Amazon S3 Bucket
-- FTP, SFTP
-- Remote Database
+| Frontend Technologies | Backend Technologies |
+| --------------------- | -------------------- |
+| <ul><li>HTML, CSS, SASS</li> <li>Javascript, React.JS, JQuery</li> <li>TailwindCSS, Bootstrap, HeadlessUI</li> <li>Axios</li> <li>NPM, NVM</li> <li>Vite, Webpack</li></ul> | <ul><li>PHP,Laravel</li><li>MySQL</li><li>PhpMyAdmin</li><li>Apache</li><li>ElasticSearch, OpenSearch</li><li>Remote storage, Amazon S3 Bucket</li><li>FTP, SFTP</li><li>Remote Database</li></ul> |
 
-### Amazon Web Services (AWS)
-- Elastic Compute Cloud (EC2)
-- Route 53
-- Lambda
-- Simple Storage Service (S3)
-- EventBridge
-- OpenSearch
-- VPC
-- RDS
-
-### Version Control Technologies
-- Git, Github, Gitlab
+| Amazon Web Services (AWS) | Versioning, Other Technologies |
+| --------------------- | -------------------- |
+| <ul><li>Elastic Compute Cloud (EC2)</li><li>Route 53</li><li>Lambda</li><li>Simple Storage Service (S3)</li><li>EventBridge, CloudWatch</li><li>OpenSearch</li><li>virtual private cloud (VPC)</li><li>Relational Database Service (RDS)</li></ul> | <ul><li>Git, Github, Gitlab</li><li>Docker, Docker Compose, DockerHub</li><li>Linux, Apache, MySQL, PHP (LAMP)</li><li>UI/UX in Figma</li><li>Postman</li><li>Apache JMeter</li></ul> |
 
 #### R e a c h &nbsp; m e 🚀:
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white
@@ -110,4 +89,3 @@ I have been developing and serving web development experiences since 2019. I cur
 )](mailto:tarikulwebx@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white
 )](https://t.me/tarikul_brur)
-
