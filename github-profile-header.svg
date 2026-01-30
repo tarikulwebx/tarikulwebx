@@ -1,0 +1,53 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Mask for typing animation - reveals text from left to right -->
+    <mask id="typingMask">
+      <rect x="0" y="0" width="1200" height="300" fill="white"/>
+      <rect x="500" y="160" width="200" height="50" fill="black">
+        <animate attributeName="width" 
+                 from="200" 
+                 to="0" 
+                 dur="2.5s" 
+                 fill="freeze"/>
+      </rect>
+    </mask>
+  </defs>
+  
+  <!-- Name -->
+  <text x="600" y="120" 
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" 
+        font-size="56" 
+        font-weight="700" 
+        fill="#14b8a6" 
+        text-anchor="middle" 
+        dominant-baseline="middle">
+    Md. Tarikul Islam
+  </text>
+  
+  <!-- Job Title with Animated Typer -->
+  <g mask="url(#typingMask)">
+    <text x="600" y="200" 
+          font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" 
+          font-size="36" 
+          font-weight="400" 
+          fill="#14b8a6" 
+          text-anchor="middle" 
+          dominant-baseline="middle">
+      Tarikul Islam
+    </text>
+  </g>
+  
+  <!-- Animated cursor - appears after typing animation -->
+  <rect x="700" y="180" width="3" height="36" fill="#14b8a6" opacity="0">
+    <animate attributeName="opacity" 
+             values="0;1" 
+             dur="0.1s" 
+             begin="2.5s" 
+             fill="freeze"/>
+    <animate attributeName="opacity" 
+             values="1;0;1" 
+             dur="0.75s" 
+             begin="2.6s" 
+             repeatCount="indefinite"/>
+  </rect>
+</svg>
