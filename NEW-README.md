@@ -7,6 +7,8 @@ I'm a **Senior Software Engineer** with a passion for building modern, scalable 
 -   🌱 Always exploring new technologies and best practices
 -   🎯 Focus on clean code, performance optimization, and user experience
 
+### Let's Connect
+
 <p>
 <a href="https://www.facebook.com/tarikulwebx"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Build Status"></a>
 <a href="https://www.linkedin.com/in/tarikulwebx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Build Status"></a>
