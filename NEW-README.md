@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Md. Tarikul Islam
+### 👋 Hi, I'm Md. Tarikul Islam
 
 I'm a **Senior Software Engineer** with a passion for building modern, scalable web applications. With **5+ years** of professional experience, I specialize in **React/Next.js**, **Laravel**, **MySQL**, and **Cloud services**.
 
@@ -7,15 +7,7 @@ I'm a **Senior Software Engineer** with a passion for building modern, scalable 
 -   🌱 Always exploring new technologies and best practices
 -   🎯 Focus on clean code, performance optimization, and user experience
 
-#### Let's Connect
-
-<p>
-<a href="https://www.facebook.com/tarikulwebx"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Build Status"></a>
-<a href="https://www.linkedin.com/in/tarikulwebx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Build Status"></a>
-<a href="https://www.youtube.com/@tarikulwebx"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Build Status"></a>
-</p>
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 #### 🎨 Frontend Development
 
