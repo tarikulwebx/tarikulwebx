@@ -1,6 +1,6 @@
 ## Hi, I'm Md. Tarikul Islam 👋
 
-I am an **Engineering Manager (EM)** and **Full-Stack Lead** with a passion for architecting modern, scalable web applications. With **10+ years** of professional experience, I specialize in **System Design**, **Next.js**, **Laravel**, and **Cloud Infrastructure**.
+I am an **Engineering Manager (EM)** and **Full-Stack Lead** with a passion for architecting modern, scalable web applications. With **3+ years** of professional experience, I specialize in **System Design**, **Next.js**, **Laravel**, and **Cloud Infrastructure**.
 
 - 🏢 Currently leading the engineering team at **NBSoft** since 2022 — overseeing AI and enterprise software services.
 - 🏗️ Focusing on **System Architecture** and high-level technical decision-making for global products.
